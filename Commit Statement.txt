@@ -1,0 +1,1 @@
+The 'COMMIT' statement in SQL is used to save all the changes made within the current transaction. When you make changes to the database, such as inserting, updating, or deleting records, these changes are initially performed in a temporary state. They are not permanently applied to the database until you explicitly issue a 'COMMIT' statement.
